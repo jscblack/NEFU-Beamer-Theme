@@ -1,5 +1,7 @@
-# THU-Beamer-Theme
-
+# NEFU-Beamer-Theme
+## Forked From THU-Beamer-Theme
+在原作基础上稍作更改，非常感谢原作者的慷慨开源！
+--以下是原作者自述内容
 最初能追溯到的版本是 [https://www.latexstudio.net/archives/4051.html](https://www.latexstudio.net/archives/4051.html)
 
 我在16年的时候魔改了一发，20年的时候小修了一下，变成现在这样
